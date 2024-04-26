@@ -4,7 +4,7 @@
 
 # Screenshot
 
-![screenshot](images/Odin Recipes.jpeg)
+![screenshot](images/Odin%20Recipes.jpeg)
 
 # Contact
 
