@@ -1,2 +1,11 @@
 # odin-recipes
-Odin recipe project
+
+# Description
+
+# Screenshot
+
+[![Screenshot](images/Odin Recipes.jpeg)]
+
+# Contact
+
+[Email me](mailto:jessehowell.dev@tutanota)
