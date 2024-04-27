@@ -2,6 +2,8 @@
 
 # Description
 
+This is a little recipe site for The Odin Project.
+
 # Screenshot
 
 ![screenshot](images/Odin%20Recipes.jpeg)
